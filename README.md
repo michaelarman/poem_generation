@@ -5,7 +5,7 @@ This repo was made to try a few NLP tasks and algorithms on a specific type of c
 These poems were scraped from [poemhunter](https://www.poemhunter.com) and the code for the scraping can be found [here](https://github.com/michaelarman/poem_generation/blob/main/poem_scraper.py)
 
 ## Types of Tasks
-There are two main tasks that can be performed with the ata available in this repo:
+There are two main tasks that can be performed with the data available in this repo:
 1) Text Generation - generating poems
 2) Text Classification - classifiying topics or forms of poems
 
